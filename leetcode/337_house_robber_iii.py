@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/house-robber-iii/
+#
 # 337. House Robber III
 #
 # The thief has found himself a new place for his thievery again. There

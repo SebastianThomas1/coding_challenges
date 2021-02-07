@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/decode-ways/
+#
 # 91. Decode Ways
 #
 # A message containing letters from A-Z can be encoded into numbers

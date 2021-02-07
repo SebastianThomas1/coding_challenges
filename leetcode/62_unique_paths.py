@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/unique-paths/
+#
 # 62. Unique Paths
 #
 # A robot is located at the top-left corner of a m x n grid (marked

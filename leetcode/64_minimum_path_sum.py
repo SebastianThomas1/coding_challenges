@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/minimum-path-sum/
+#
 # 64. Minimum Path Sum
 #
 # Given a m x n grid filled with non-negative numbers, find a path from

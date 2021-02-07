@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/house-robber-ii/
+#
 # 213. House Robber II
 #
 # You are a professional robber planning to rob houses along a street.

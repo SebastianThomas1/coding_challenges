@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/trapping-rain-water/
+#
 # 42. Trapping Rain Water
 #
 # Given n non-negative integers representing an elevation map where the

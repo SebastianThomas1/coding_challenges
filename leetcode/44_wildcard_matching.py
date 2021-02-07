@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/wildcard-matching/
+#
 # 44. Wildcard Matching
 #
 # Given an input string (s) and a pattern (p), implement wildcard

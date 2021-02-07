@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/triangle/
+#
 # 120. Triangle
 #
 # Given a triangle array, return the minimum path sum from top to

@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+#
 # 123. Best Time to Buy and Sell Stock III
 #
 # Say you have an array for which the ith element is the price of a

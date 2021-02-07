@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/interleaving-string/
+#
 # 97. Interleaving String
 #
 # Given strings s1, s2, and s3, find whether s3 is formed by an

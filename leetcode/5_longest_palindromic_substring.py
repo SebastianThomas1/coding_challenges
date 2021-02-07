@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/longest-palindromic-substring/
+#
 # 5. Longest Palindromic Substring
 #
 # Given a string s, return the longest palindromic substring in s.

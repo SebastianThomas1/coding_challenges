@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/add-two-numbers/
+#
 # 2. Add Two Numbers
 #
 # You are given two non-empty linked lists representing two non-negative

@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/word-break-ii/
+#
 # 140. Word Break II
 #
 # Given a non-empty string s and a dictionary wordDict containing a list

@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/two-sum/
+#
 # 1. Two Sum
 #
 # Given an array of integers nums and an integer target, return indices

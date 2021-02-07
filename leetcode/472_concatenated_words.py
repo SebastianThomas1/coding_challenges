@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/concatenated-words/
+#
 # 472. Concatenated Words
 #
 # Given an array of strings words (without duplicates), return all the

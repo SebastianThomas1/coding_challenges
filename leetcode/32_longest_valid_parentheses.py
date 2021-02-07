@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/longest-valid-parentheses/
+#
 # 32. Longest Valid Parentheses
 #
 # Given a string containing just the characters '(' and ')', find the

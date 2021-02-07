@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/maximal-rectangle/
+#
 # 85. Maximal Rectangle
 #
 # Given a rows x cols binary matrix filled with 0's and 1's, find the

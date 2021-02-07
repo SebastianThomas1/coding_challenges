@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/regular-expression-matching/
+#
 # 10. Regular Expression Matching
 #
 # Given an input string (s) and a pattern (p), implement regular

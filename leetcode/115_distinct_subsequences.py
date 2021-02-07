@@ -1,3 +1,7 @@
+# Sebastian Thomas (coding at sebastianthomas dot de)
+
+# https://leetcode.com/problems/distinct-subsequences/
+#
 # 115. Distinct Subsequences
 #
 # Given two strings s and t, return the number of distinct subsequences

@@ -30,7 +30,7 @@
 # binary representation '100000' and thus no binary gaps.
 #
 # Write an efficient algorithm for the following assumptions:
-#   N is an integer within the range [1..2,147,483,647].
+#   - N is an integer within the range [1..2,147,483,647].
 
 def solution(n):
     one_indices = [idx for idx, char in enumerate(bin(n)[2:]) if char == '1']
